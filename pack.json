@@ -1,0 +1,314 @@
+[
+    {
+        "file": "10_of_clubs.png",
+        "value": 10,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "2_of_clubs.png",
+        "value": 2,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "3_of_clubs.png",
+        "value": 3,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "4_of_clubs.png",
+        "value": 4,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "5_of_clubs.png",
+        "value": 5,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "6_of_clubs.png",
+        "value": 6,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "7_of_clubs.png",
+        "value": 7,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "8_of_clubs.png",
+        "value": 8,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "9_of_clubs.png",
+        "value": 9,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "ace_of_clubs.png",
+        "value": 1,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "jack_of_clubs.png",
+        "value": 11,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "king_of_clubs.png",
+        "value": 13,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "queen_of_clubs.png",
+        "value": 12,
+        "type": "clubs",
+        "color": "black"
+    },
+    {
+        "file": "10_of_diamonds.png",
+        "value": 10,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "2_of_diamonds.png",
+        "value": 2,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "3_of_diamonds.png",
+        "value": 3,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "4_of_diamonds.png",
+        "value": 4,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "5_of_diamonds.png",
+        "value": 5,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "6_of_diamonds.png",
+        "value": 6,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "7_of_diamonds.png",
+        "value": 7,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "8_of_diamonds.png",
+        "value": 8,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "9_of_diamonds.png",
+        "value": 9,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "ace_of_diamonds.png",
+        "value": 1,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "jack_of_diamonds.png",
+        "value": 11,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "king_of_diamonds.png",
+        "value": 13,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "queen_of_diamonds.png",
+        "value": 12,
+        "type": "diamonds",
+        "color": "red"
+    },
+    {
+        "file": "10_of_hearts.png",
+        "value": 10,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "2_of_hearts.png",
+        "value": 2,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "3_of_hearts.png",
+        "value": 3,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "4_of_hearts.png",
+        "value": 4,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "5_of_hearts.png",
+        "value": 5,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "6_of_hearts.png",
+        "value": 6,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "7_of_hearts.png",
+        "value": 7,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "8_of_hearts.png",
+        "value": 8,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "9_of_hearts.png",
+        "value": 9,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "ace_of_hearts.png",
+        "value": 1,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "jack_of_hearts.png",
+        "value": 11,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "king_of_hearts.png",
+        "value": 13,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "queen_of_hearts.png",
+        "value": 12,
+        "type": "hearts",
+        "color": "red"
+    },
+    {
+        "file": "10_of_spades.png",
+        "value": 10,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "2_of_spades.png",
+        "value": 2,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "3_of_spades.png",
+        "value": 3,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "4_of_spades.png",
+        "value": 4,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "5_of_spades.png",
+        "value": 5,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "6_of_spades.png",
+        "value": 6,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "7_of_spades.png",
+        "value": 7,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "8_of_spades.png",
+        "value": 8,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "9_of_spades.png",
+        "value": 9,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "ace_of_spades.png",
+        "value": 1,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "jack_of_spades.png",
+        "value": 11,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "king_of_spades.png",
+        "value": 13,
+        "type": "spades",
+        "color": "black"
+    },
+    {
+        "file": "queen_of_spades.png",
+        "value": 12,
+        "type": "spades",
+        "color": "black"
+    }
+]
